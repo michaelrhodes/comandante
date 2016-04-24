@@ -1,4 +1,4 @@
-var spawn = require('child_process').spawn;
+var spawn = require('cross-spawn-async');
 var duplexer = require('duplexer');
 
 module.exports = function (cmd, args, opts) {

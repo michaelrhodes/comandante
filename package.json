@@ -9,6 +9,7 @@
         "test" : "test"
     },
     "dependencies" : {
+        "cross-spawn-async" : "~2.2.2",
         "duplexer" : "~0.0.2"
     },
     "devDependencies" : {
